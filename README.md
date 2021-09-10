@@ -1,10 +1,10 @@
 ### Hi  I'm Ranjith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ranjith-r-63b4271bb/](https://www.linkedin.com/in/ranjith-r-63b4271bb/)
-[![Twitter Badge](https://img.shields.io/badge/-@sanu_faiz-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ranjith93065974)](https://twitter.com/Ranjith93065974)
-[![Instagram Badge](https://img.shields.io/badge/-@fxizp-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/)](https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri)
+[![Twitter Badge](https://img.shields.io/badge/-@-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ranjith93065974)](https://twitter.com/Ranjith93065974)
+[![Instagram Badge](https://img.shields.io/badge/--purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/)](https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri)
 [![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:info.ranjithr@gmail.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 hi, i'm [Ranjith R](https://www.renjithr.tk/), a passionate self-taught web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -44,7 +44,5 @@ CSS          ▒░░░░░░░░░░░░░░░░░░░░░�
 
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ranjithr-007&show_icons=true&theme=gotham" alt="Ranjithr" />
-
-
 
 
