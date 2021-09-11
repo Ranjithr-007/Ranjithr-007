@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/--purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/)](https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri)
 [![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:info.ranjithr@gmail.com)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjithr-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithr-007" /> </p>
 
 hi, i'm [Ranjith R](https://www.renjithr.tk/), a passionate self-taught web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
