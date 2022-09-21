@@ -19,7 +19,7 @@ I am a passionate person and I love what I do. I help designers, small agencies 
 
 
 **languages and tools:**  
-[![My Skills](https://skillicons.dev/icons?i=aws,python,django,react,bootstrap,flask,javascript,c,c++,jquery,docker,java,postgres,nginx,linux,git,figma,stackoverflow,css&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,python,django,react,bootstrap,flask,javascript,c,c++,jquery,docker,java,postgres,nginx,linux,git,figma,stackoverflow,css&perline=8)](https://skillicons.dev)
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png"></code>
