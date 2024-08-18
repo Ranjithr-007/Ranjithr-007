@@ -1,7 +1,7 @@
 ### Hi  I'm Ranjith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-ranjithr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ranjith-ramaswamy/)](https://www.linkedin.com/in/ranjith-ramaswamy/)
 [![X Badge](https://img.shields.io/badge/-ranjith-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://https://x.com/Ranjith77890284)](https://x.com/Ranjith77890284)
-[![Instagram Badge](https://img.shields.io/badge/-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/)](https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri)
+[![Instagram Badge](https://img.shields.io/badge/-gypsy-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/)](https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri)
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:info.ranjithr@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjithr-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithr-007" /> </p>
