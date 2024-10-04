@@ -10,7 +10,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-ranjithr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:info.ranjithr@gmail.com)
 </div>
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ranjith-ramaswamy/)">
+  <a href="https://www.linkedin.com/in/ranjith-ramaswamy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
