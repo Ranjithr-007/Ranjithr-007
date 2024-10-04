@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### Hi  I'm Ranjith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Hi there, I'm Ranjith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-ranjithr-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ranjith-ramaswamy/)](https://www.linkedin.com/in/ranjith-ramaswamy/)
 [![X Badge](https://img.shields.io/badge/-ranjith-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=black&link=https://https://x.com/Ranjith77890284)](https://x.com/Ranjith77890284)
 [![Instagram Badge](https://img.shields.io/badge/-gypsy-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/)](https://www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri)
