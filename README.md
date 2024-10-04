@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://dev.to/ranjith007">
-    <img src="https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Badge"/>
+    <img src="https://img.shields.io/badge/Dev Community-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Badge"/>
   </a>
 </div>
 
