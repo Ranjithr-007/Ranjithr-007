@@ -20,7 +20,7 @@
   <a href="https://x.com/Ranjith77890284">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
-  <a href="https://discord.com/ranjith#9348">
+  <a href="https://discord.com/ranjith9348">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
