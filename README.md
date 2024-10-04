@@ -23,6 +23,9 @@
   <a href="https://discordapp.com/users/ranjith9348">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://dev.to/ranjith007">
+    <img src="https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=dev&logoColor=white" alt="Dev Badge"/>
+  </a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjithr-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithr-007" /> </p>
