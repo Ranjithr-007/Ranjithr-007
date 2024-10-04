@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Dev Community-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Badge"/>
   </a>
   <a href="www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
