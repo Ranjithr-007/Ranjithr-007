@@ -22,7 +22,9 @@
 </div>
 
 <div id="profile" align="center">
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjithr-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithr-007" /> </p>
+
 </div>
 
 <div id="welcome" align="center">
