@@ -14,9 +14,7 @@
   <a href="https://www.linkedin.com/in/ranjith-ramaswamy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  
   <a href="https://x.com/Ranjith77890284">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
@@ -25,6 +23,9 @@
   </a>
   <a href="https://dev.to/ranjith007">
     <img src="https://img.shields.io/badge/Dev Community-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Badge"/>
+  </a>
+  <a href="www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
