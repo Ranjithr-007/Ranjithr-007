@@ -18,7 +18,7 @@
 <a href="www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/">
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjithr-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithr-007" /> </p>
 
 
