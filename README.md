@@ -27,7 +27,7 @@ hi, i'm [Ranjith R](https://linktr.ee/ranjithgypsy/), a passionate self-taught w
 I am a passionate person and I love what I do. I help designers, small agencies and bussinesses bring their idea to life. I turn your requirments into websites - on time and on budget.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh5cjl3N2c2aWZxYWF2YTdocjI4MGV0ZWs1ZnRiYmxxdnBuMnB1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:info.ranjithr@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
