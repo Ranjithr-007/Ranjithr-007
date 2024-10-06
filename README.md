@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ranjithr-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithr-007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjithr-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithr-007" /> </p>
 
 
 hi, i'm [Ranjith R](https://linktr.ee/ranjithgypsy/), a passionate self-taught web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
