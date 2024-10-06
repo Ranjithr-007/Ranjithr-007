@@ -48,14 +48,9 @@ I am a passionate person and I love what I do. I help designers, small agencies 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 📊 **i spent most of my time on:**
-<!--START_SECTION:waka-->
-```text
-Python       ███████████████░░░░░░░░░░   60.00 % 
-JavaScripts  ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-HTML         █▓░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-CSS          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-```
-<!--END_SECTION:waka-->
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithr-007&layout=compact&theme=gotham">
+
 <br>
 
 📈 my github stats
