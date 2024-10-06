@@ -27,7 +27,7 @@ hi, i'm [Ranjith R](https://linktr.ee/ranjithgypsy/), a passionate self-taught w
 I am a passionate person and I love what I do. I help designers, small agencies and bussinesses bring their idea to life. I turn your requirments into websites - on time and on budget.
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh5cjl3N2c2aWZxYWF2YTdocjI4MGV0ZWs1ZnRiYmxxdnBuMnB1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh5cjl3N2c2aWZxYWF2YTdocjI4MGV0ZWs1ZnRiYmxxdnBuMnB1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="500" height="310" />
   
 - 💼 any freelance work? do reach, [email](mailto:info.ranjithr@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -47,13 +47,16 @@ I am a passionate person and I love what I do. I help designers, small agencies 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
-📊 **i spent most of my time on:**
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithr-007&layout=compact&theme=gotham">
 
-<br>
+ 📊 **I spent most of my time on:**
 
-📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ranjithr-007&show_icons=true&theme=gotham" alt="Ranjithr-007" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithr-007&layout=compact&theme=gotham" height="200" width></p>
+
+ <div class="status" align="center">
+  
+  📈 **My github status**
+  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Ranjithr-007&show_icons=true&theme=gotham" alt="Ranjithr-007" />
+  </p>
+ </div>
 
 
