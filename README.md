@@ -1,3 +1,9 @@
+<div id="welcome" align="center">
+  
+ ### Hi there, I'm Ranjith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh5cjl3N2c2aWZxYWF2YTdocjI4MGV0ZWs1ZnRiYmxxdnBuMnB1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="500" height="320"/>
 </div>
@@ -23,11 +29,7 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ranjithr-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithr-007" /> </p>
 
-<div id="welcome" align="center">
-  
- ### Hi there, I'm Ranjith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- 
-</div>
+
 
 hi, i'm [Ranjith R](https://linktr.ee/ranjithgypsy/), a passionate self-taught web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
