@@ -50,7 +50,7 @@ I am a passionate person and I love what I do. I help designers, small agencies 
 
  📊 **I spent most of my time on:**
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithr-007&layout=compact&theme=gotham" height="200" width></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithr-007&layout=compact&theme=gotham" height="180" width></p>
 
  <div class="status" align="center">
   
