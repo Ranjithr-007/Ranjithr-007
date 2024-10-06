@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/ranjith-ramaswamy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-  
+&nbsp
 <a href="https://x.com/Ranjith77890284">
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
 </a>
