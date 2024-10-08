@@ -1,24 +1,8 @@
  ### Hi there, I'm Ranjith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/ranjith-ramaswamy/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
 
-<a href="https://x.com/Ranjith77890284">
-  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-</a>
 
-<a href="https://discordapp.com/users/ranjith9348">
-  <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-</a>
-  
-<a href="https://dev.to/ranjith007">
-  <img src="https://img.shields.io/badge/Dev Community-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Badge"/>
-</a>
-  
-<a href="www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-<br><br>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith-ramaswamy/) [![Twitter](https://img.shields.io/badge/Twitter-000000.svg?logo=X&logoColor=white)](https://x.com/Ranjith77890284) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/ranjith9348) [![DEV Community](https://img.shields.io/badge/-Dev-000000.svg?logo=dev.to&logoColor=white)](https://dev.to/ranjith007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](www.instagram.com/gypsy._____/?igshid=lh0vgl5pa2ri/)
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranjithr-007&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjithr-007" /> </p>
 
 
